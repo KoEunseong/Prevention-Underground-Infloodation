@@ -63,11 +63,4 @@
 - 제품사진
   
 ![image](https://github.com/KoEunseong/Prevention-Underground-Infloodation/assets/98599867/c696377e-87e0-44db-8702-414875ab522f)
-- 발표사진
-
-![image](https://github.com/KoEunseong/Prevention-Underground-Infloodation/assets/98599867/9e693e89-55f4-4169-b33b-841e71302a24)
-
-- 수상사진
-
-![image](https://github.com/KoEunseong/Prevention-Underground-Infloodation/assets/98599867/3144a841-142e-4725-9be3-0d20f7bdb0ed)
 
